@@ -1,5 +1,3 @@
 package champollion;
 
-public enum TypeIntervention {
-	CM, TD, TP;	
-}
+public enum TypeIntervention {CM, TD, TP;}
